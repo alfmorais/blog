@@ -17,8 +17,6 @@ $env:FLASK_APP = "hello.py"
 python -m  flask run
 ~~~
 
-<<<<<<< HEAD
+
 ## Alfredo de Morais | Desenvolvedor de Aplicações Python
-=======
-## Alfredo de Morais | Desenvolvedor de Aplicações Python
->>>>>>> fc4f7a209887216d1713ff28a22c5cbba1d8c0e8
+
